@@ -1,0 +1,13 @@
+<center>
+# Annual Fire Related Research and Developments Conference
+</center>
+
+```{r, echo=FALSE}
+htmltools::includeHTML("image.html")
+```
+
+The conference providing research relevant to blue lights, from both practitioners and academics
+
+```{r, echo=FALSE}
+htmltools::includeHTML("twitter.html")
+```
